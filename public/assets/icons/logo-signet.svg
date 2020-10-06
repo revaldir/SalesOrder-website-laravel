@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="312" height="115" viewBox="0 0 312 115">
+  <defs>
+    <clipPath id="clip-logo-signet">
+      <rect width="312" height="115"/>
+    </clipPath>
+  </defs>
+  <g id="logo-signet" clip-path="url(#clip-logo-signet)">
+    <g id="Rectangle_51" data-name="Rectangle 51" transform="translate(10 10)" fill="#fff" stroke="#0d276b" stroke-width="2">
+      <rect width="292" height="95" rx="20" stroke="none"/>
+      <rect x="1" y="1" width="290" height="93" rx="19" fill="none"/>
+    </g>
+    <text id="MAHASERA" transform="translate(72 50)" fill="#f80811" font-size="32" font-family="Kanit-Bold, Kanit" font-weight="700"><tspan x="0" y="0">MAHASERA</tspan></text>
+    <text id="PT._MAHESA_SELULER_RAYA" data-name="PT. MAHESA SELULER RAYA" transform="translate(43 78)" fill="#425f93" font-size="16" font-family="LucidaSans-DemiItalic, Lucida Sans" font-weight="300" font-style="italic"><tspan x="0" y="0">PT. MAHESA SELULER RAYA</tspan></text>
+  </g>
+</svg>

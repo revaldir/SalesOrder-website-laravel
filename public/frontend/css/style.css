@@ -1,0 +1,131 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 0.875rem;
+    font-weight: 400;
+    line-height: 1.5;
+    color: #23282c;
+    text-align: left;
+    background-color: #E9ECF5;
+}
+
+.dropdown-header {
+    display: block;
+    padding: 0 1.5rem;
+    margin-bottom: 0;
+    font-size: 0.765625rem;
+    color: #73818f;
+    white-space: nowrap;
+}
+
+.dropdown-header {
+    padding: 8px 20px;
+    background: #e4e7ea;
+    border-bottom: 1px solid #c8ced3;
+}
+
+.dropdown-header .btn {
+    margin-top: -7px;
+    color: #73818f;
+}
+
+.dropdown-header .btn:hover {
+    color: #23282c;
+}
+
+.dropdown-header .btn.pull-right {
+    margin-right: -20px;
+}
+
+.dropdown-item {
+    display: block;
+    width: 100%;
+    padding: 0.25rem 1.5rem;
+    clear: both;
+    font-weight: 400;
+    color: #23282c;
+    text-align: inherit;
+    white-space: nowrap;
+    background-color: transparent;
+    border: 0;
+}
+
+.dropdown-item:hover,
+.dropdown-item:focus {
+    color: #181b1e;
+    text-decoration: none;
+    background-color: #f0f3f5;
+}
+
+.dropdown-item.active,
+.dropdown-item:active {
+    color: #fff;
+    text-decoration: none;
+    background-color: #20a8d8;
+}
+
+.dropdown-item.disabled,
+.dropdown-item:disabled {
+    color: #73818f;
+    background-color: transparent;
+}
+
+.callout {
+    position: relative;
+    padding: 0 1rem;
+    margin: 1rem 0;
+    border-left: 4px solid #c8ced3;
+    border-right: 4px solid #c8ced3;
+    border-radius: 0.25rem;
+}
+
+.callout code {
+    border-radius: 0.25rem;
+}
+
+.callout h4 {
+    margin-top: 0;
+    margin-bottom: .25rem;
+}
+
+.callout-primary {
+    border-left-color: #20a8d8;
+}
+
+.callout-primary h4 {
+    color: #20a8d8;
+}
+
+.callout-success {
+    border-left-color: #4dbd74;
+    border-right-color: #4dbd74;
+}
+
+.callout-success h4 {
+    color: #4dbd74;
+}
+
+.callout-info {
+    border-left-color: #63c2de;
+}
+
+.callout-info h4 {
+    color: #63c2de;
+}
+
+.callout-warning {
+    border-right-color: #ffc107;
+}
+
+.callout-warning h4 {
+    color: #ffc107;
+}
+
+.callout-danger {
+    border-left-color: #f86c6b;
+    border-right-color: #f86c6b;
+}
+
+.callout-danger h4 {
+    color: #f86c6b;
+}

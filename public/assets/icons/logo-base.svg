@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="120" viewBox="0 0 120 120">
+  <defs>
+    <clipPath id="clip-logo-base">
+      <rect width="120" height="120"/>
+    </clipPath>
+  </defs>
+  <g id="logo-base" clip-path="url(#clip-logo-base)">
+    <g id="Ellipse_21" data-name="Ellipse 21" fill="#fff" stroke="#0d276b" stroke-width="2">
+      <circle cx="60" cy="60" r="60" stroke="none"/>
+      <circle cx="60" cy="60" r="59" fill="none"/>
+    </g>
+    <text id="MAHASERA" transform="translate(7 56)" fill="#f80811" font-size="20" font-family="Kanit-Bold, Kanit" font-weight="700"><tspan x="0" y="0">MAHASERA</tspan></text>
+    <text id="PT._MAHESA_SELULER_RAYA" data-name="PT. MAHESA SELULER RAYA" transform="translate(4 71)" fill="#425f93" font-size="8" font-family="LucidaSans-DemiItalic, Lucida Sans" font-weight="300" font-style="italic"><tspan x="0" y="0">PT. MAHESA SELULER RAYA</tspan></text>
+  </g>
+</svg>
